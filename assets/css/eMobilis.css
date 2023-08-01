@@ -1,0 +1,40 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+    color: indigo;
+    font-family: Chilanka;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+li a:hover{
+    color:burlywood;
+}
+label{
+    margin: 10px;
+ font-family: Chandas;
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+
+
+}
+h2{
+    text-align: center;
+    color: plum;
+font-size: 40px;
+    font-family: Gubbi;
+}
+input{
+    color: deepskyblue;
+    font-family: "DejaVu Sans Mono";
+
+}

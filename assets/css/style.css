@@ -1,0 +1,68 @@
+ul{
+    margin: 0;
+padding: 0;
+    list-style-type: none;
+
+}
+li{
+    float: left;
+
+}
+li a{
+    padding: 15px;
+    font-family: Chilanka;
+    font-size: 17px;
+    color: indigo;
+    text-decoration: none;
+}
+li a:hover{
+    color: crimson;
+}
+.fruits{
+    border: 2px solid darkmagenta;
+    text-align: center;
+    color: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    font-family: Chilanka;
+    background-color: navajowhite;
+
+}
+.cars{
+    border: 2px solid darkorchid;
+    text-align: center;
+    color: cyan;
+    padding: 10px;
+    margin: 10px;
+    font-family: Chandas;
+    background-color: bisque;
+}
+.labels{
+    border: 2px solid fuchsia;
+    text-align: center;
+    color: aqua;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Droid Sans";
+    background-color: blanchedalmond;
+}
+    .vegetables{
+        border: 2px solid rebeccapurple ;
+        text-align: center;
+        color: dodgerblue;
+        padding: 10px;
+        margin: 10px;
+        font-family: FreeSerif;
+        background-color: darksalmon;
+    }
+    #school{
+        border: 2px solid slateblue;
+        text-align: center;
+        color: royalblue;
+        padding: 10px;
+        margin: 10px;
+        font-family: Gayathri;
+        background-color: antiquewhite;
+
+    }
+

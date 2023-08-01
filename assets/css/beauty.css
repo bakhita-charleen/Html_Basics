@@ -1,0 +1,46 @@
+h1{
+    color: midnightblue;
+  text-align:center;
+    font-size: 30px;
+    font-family: Chandas;
+}
+h2 {
+    color: darkslateblue;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Chilanka;
+}
+ol{
+    color: darkblue;
+    text-align: center;
+    font-size: 15px;
+    font-family: "DejaVu Sans Mono";
+
+}
+
+.container{
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: skyblue;
+
+}
+.container h2{
+    text-align: center
+}
+.form-group{
+    margin-bottom: 20px;
+
+}
+    border-radius: 1px;
+    font-size: 16px;
+}
+.form-group input[type="submit"]{
+    cursor: pointer;
+    background-color: whitesmoke;
+    color: beige;
+}
+.form-group input[type="submit"]:hover{
+    background-color: antiquewhite;
+}
